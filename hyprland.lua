@@ -1,0 +1,8 @@
+require("module.monitor")
+require("module.binding")
+require("module.looknfeel")
+require("module.env-variable")
+require("module.misc")
+require("module.autostart")
+require("module.input")
+require("module.windowrule")
